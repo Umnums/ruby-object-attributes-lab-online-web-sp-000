@@ -18,4 +18,4 @@ class Dog
 end
 
 
-fido = Dog.new
+print fido = Dog.new
