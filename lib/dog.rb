@@ -16,3 +16,6 @@ class Dog
   end
 
 end
+
+
+fido = dog.new
